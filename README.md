@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can check the component in the link here: http://fetch-data-from-reddit-with-react.surge.sh/
 
 ## Usage
 ```
