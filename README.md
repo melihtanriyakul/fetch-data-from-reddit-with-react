@@ -1,5 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Usage
+```
+import React, { Component } from 'react';
+import Reddit from './Reddit';
+
+
+class App extends Component {
+  render() {
+    return (
+      <Reddit givenUrl="https://www.reddit.com/r/reactjs.json"/> // can give the url of any subreddit here
+    );
+  }
+}
+
+export default App;
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
